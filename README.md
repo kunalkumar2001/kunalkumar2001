@@ -34,10 +34,10 @@ To work in a challenging role as a **Data Analyst or Data Scientist**, where I c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repositories
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kunalkumar2001&limit=5&theme=white&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkumar2001&layout=compact)
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=kunalkumar2001&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=kunalkumar2001&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
