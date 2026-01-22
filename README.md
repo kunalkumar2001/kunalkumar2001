@@ -1,5 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal Kumar
 
+💻 Python Developer | 📊 Data Analyst | 🚀 Aspiring Data Scientist  
+
+I’m a data-driven professional with strong hands-on experience in **Python, Data Analytics, SQL, Excel, Power BI**, and a growing focus on **Machine Learning and Data Science**.  
+I enjoy turning raw data into meaningful insights and building projects that solve real-world problems.
+
+---
+
+## 🧠 What I Do
+- Write clean and efficient **Python code**
+- Analyze data using **Python, SQL, Excel**
+- Build **interactive dashboards** with Power BI
+- Perform **EDA, data cleaning, and visualisation**
+- Work on **end-to-end analytics and ML projects**
+
+## 🎯 Career Goal
+To work in a challenging role as a **Data Analyst or Data Scientist**, where I can apply data, analytics, and machine learning to solve meaningful business problems.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7J5gWxcz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kunal.yaduvanshi.696) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__itskunalyaduvanshi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalbtech2024) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kunalkr696) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kunal749106) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kunal-Yaduvanshi-12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PuzzleheadedTheme476) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994674) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kunalyadav696) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkr696@gmail.com) 
@@ -24,3 +40,18 @@
 [![](https://visitcount.itsvg.in/api?id=kunalkumar2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+Here are some of the projects that best represent my work:
+
+🔹 **Python Project – Beginners to Advanced**  
+A structured collection of Python projects showcasing growth from fundamentals to advanced concepts.
+
+🔹 **Data Analyst – Python & Libraries**  
+Hands-on data analysis using Pandas, NumPy, EDA, and data visualisation.
+
+🔹 **Sales / Ola / Coffee Analytics Projects**  
+End-to-end analytics using Excel, SQL, and Power BI with business insights.
+
+🔹 **House Price Prediction (ML)**  
+Machine learning regression project focusing on feature engineering and model evaluation.
+
