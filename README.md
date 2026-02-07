@@ -34,7 +34,9 @@ To work in a challenging role as a **Data Analyst or Data Scientist**, where I c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repositories
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkumar2001&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-a9tpb8zp0-kunal-kumars-projects-ff80a7e8.vercel.app/api?username=kunalkumar2001&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=kunalkumar2001&label=Profile%20Views&color=blue&style=flat)
